@@ -1,0 +1,15 @@
+Flask
+alpha_vantage
+pandas
+numpy
+statsmodels
+scikit-learn
+matplotlib
+yfinance
+pyjwt
+tweepy
+tweet-preprocessor
+uuid
+nltk
+textblob
+Flask-SQLAlchemy
